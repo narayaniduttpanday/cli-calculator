@@ -1,0 +1,11 @@
+# Compiled Java outputs
+bin/
+*.class
+
+# Eclipse / STS workspace settings
+.settings/
+.classpath
+.project
+
+# macOS system files
+.DS_Store
